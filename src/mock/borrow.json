@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "typeName": "童书",
+        "bookName": "喜羊羊与灰太狼",
+        "price": "39.9元",
+        "publish": "北京出版社",
+        "author": "老友",
+        "reader": "张三"
+    },
+    {
+        "id": "1",
+        "typeName": "童书",
+        "bookName": "喜羊羊与灰太狼",
+        "price": "39.9元",
+        "publish": "北京出版社",
+        "author": "老友",
+        "reader": "张三"
+    },
+    {
+        "id": "1",
+        "typeName": "童书",
+        "bookName": "喜羊羊与灰太狼",
+        "price": "39.9元",
+        "publish": "北京出版社",
+        "author": "老友",
+        "reader": "张三"
+    }
+]

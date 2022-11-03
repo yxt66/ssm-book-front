@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "typeName":"童书",
+        "remark":"童书好看"
+    }, {
+        "id":"2",
+        "typeName":"小说",
+        "remark":"小说好看"
+    }, {
+        "id":"3",
+        "typeName":"科技",
+        "remark":"科技好看"
+    },
+    {
+        "id":"4",
+        "typeName":"社科",
+        "remark":"社科好看"
+    },
+    {
+        "id":"5",
+        "typeName":"文艺",
+        "remark":"文艺好看"
+    }
+
+]
